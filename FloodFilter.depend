@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1327195798 source:c:\mingw\msys\1.0\home\allegro\code\floodfilter\iathook.cpp
+	"hook.h"
+
+1327085002 c:\mingw\msys\1.0\home\allegro\code\floodfilter\hook.h
+	"main.h"
+
+1327101010 c:\mingw\msys\1.0\home\allegro\code\floodfilter\main.h
+	<windows.h>
+	<winsock2.h>
+	<Ws2tcpip.h>
+	<fstream>
+	<cstring>
+	<string>
+	<vector>
+	<stack>
+	<algorithm>
+	<locale>
+	<shlwapi.h>
+	<sqlite3.h>
+	"Blacklist.h"
+	"stack.h"
+
+1327106075 c:\mingw\msys\1.0\home\allegro\code\floodfilter\blacklist.h
+
+1327084876 c:\mingw\msys\1.0\home\allegro\code\floodfilter\stack.h
+
+1327097734 source:c:\mingw\msys\1.0\home\allegro\code\floodfilter\database.cpp
+	"main.h"
+
+1327160834 source:c:\mingw\msys\1.0\home\allegro\code\floodfilter\filter.cpp
+	"filter.h"
+
+1327127302 c:\mingw\msys\1.0\home\allegro\code\floodfilter\filter.h
+	"main.h"
+
+1326521868 source:c:\mingw\msys\1.0\home\allegro\code\floodfilter\levdist.cpp
+	"main.h"
+
+1326945877 source:c:\mingw\msys\1.0\home\allegro\code\floodfilter\log.cpp
+	"main.h"
+
+1327196958 source:c:\mingw\msys\1.0\home\allegro\code\floodfilter\main.cpp
+	"main.h"
+
+1327128749 source:c:\mingw\msys\1.0\home\allegro\code\floodfilter\stack.cpp
+	"main.h"
+
+1327117321 source:c:\mingw\msys\1.0\home\allegro\code\floodfilter\blacklist.cpp
+	"main.h"
+
